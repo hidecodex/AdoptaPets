@@ -1,5 +1,7 @@
 {
-  "name": "AdoptaPet's",
-  "integrations": {},
+  "name": "AdoptaPets",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
